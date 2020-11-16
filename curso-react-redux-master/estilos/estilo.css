@@ -1,0 +1,98 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: rgb(1, 16, 9);
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: deeppink;
+}
+
+html {
+    background-color: #00539F;
+}
+
+body {
+    width: 1000px;
+    margin: -0 auto;
+    background-color: #dad5cf;
+    padding: 1px 9px 15px 10px;
+    border: 2px solid rgb(7, 41, 11);
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px rgb(160, 82, 82);
+}
+
+.imagem-senha {
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px 10px;
+    border: 10px;
+    flex: 5px;
+    color: green;
+}
+
+#divBusca {
+    background-color: #E0EEEE;
+    border: solid 2px #5F9EA0;
+    border-radius: 0 50px 50px 0;
+    width: 268px;
+    height: 32px;
+}
+
+#txtBusca {
+    float: left;
+    background-color: rebeccapurple;
+    padding-left: 5px;
+    font-size: 18px;
+    border: none;
+    height: 32px;
+    width: 191px;
+}
+
+#btnBusca {
+    border: none;
+    float: left;
+    height: 32px;
+    border-radius: 0 50px 50px 0;
+    width: 70px;
+    font-weight: bold;
+    background: #5F9EA0;
+}
+
+nav {
+    width: 1020px;
+    display: flex;
+    background-color: #00ff;
+    margin: 1px;
+    margin-left: -10px;
+    margin-right: +10px;
+}
+
+nav a {
+    color: #fff;
+    margin: auto 20px auto 30px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+nav Projrtos {
+    float: left;
+    list-style: none;
+    color: #fff;
+}
